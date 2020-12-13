@@ -1,7 +1,12 @@
 ![GitHub Logo](https://i.ibb.co/VWtGMXc/Artboard-1-4x.png)
 <h1 align=center>Hi, I'm Donat!  <span><a href=https://www.linkedin.com/in/donat-pllana-a1b541145 target="blank"><img align="center" src=https://devicon.dev/devicon.git/icons/linkedin/linkedin-original.svg alt="jacksonchen171" height="30" width="30" /></a>
 <a href=https://medium.com/@donatpllana target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg alt="@jacksonchen171" height="30" width="30" /></a></span></h1>
-<h3 align=center>I'm a Full-Stack Developer, Designer and Nature lover. </h1>
+<h3 align=center>I'm a Full-Stack Developer, Designer and Nature lover. </h1><br>
+<ul>
+   <li>Currently contributing to the fullstack development of a community-driven platform that supports women who are navigating a career in tech, utilizing the MERN stack.</li><br>
+<li>Actively participating in code reviews, pair-programming, deployment, TDD, and accessibility testing of features.</li><br>
+<li>Actively learning new tools, concepts and patterns.</li></ul>
+<br>
 <h2 align=center>Languages & Tools</h2>
  <br>
 <p align=center>
