@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![GitHub Logo](https://i.ibb.co/VWtGMXc/Artboard-1-4x.png)
 <!--
 **DonatelloTHM/DonatelloTHM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
