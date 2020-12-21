@@ -58,13 +58,14 @@
 <br>
 <p align="center">
     <span><a href=https://github.com/DonatelloTHM/Moribus-frontend target="blank"><img align="center"
-                src=https://i.ibb.co/MkMzLFD/moribusfrontend.png alt="moribus" width="400" /></a></span>
-    &nbsp;&nbsp;<span><a href=https://github.com/DonatelloTHM/tablero target="blank"><img align="center"
+                src=https://i.ibb.co/MkMzLFD/moribusfrontend.png alt="moribus" width="350" /></a></span>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span><a href=https://github.com/DonatelloTHM/tablero target="blank"><img align="center"
                 src=https://i.ibb.co/ctw5CYF/Screen-Shot-2020-12-12-at-7-59-12-PM.png alt="tablero"
-                width="400" /></a></span></p>
+                width="350" /></a></span></p>
+<br>
 <p align="center">
     <span><a href=https://github.com/vuonga1103/sharecare target="blank"><img align="center"
-                src=https://i.ibb.co/j3znnY0/Screen-Shot-2020-09-27-at-12-04-54-PM.png alt="sharecare" width="400" /></a></span>
-    &nbsp;&nbsp;<span><a href=https://github.com/DonatelloTHM/LearnConnect target="blank"><img align="center"
+                src=https://i.ibb.co/j3znnY0/Screen-Shot-2020-09-27-at-12-04-54-PM.png alt="sharecare" width="350" /></a></span>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span><a href=https://github.com/DonatelloTHM/LearnConnect target="blank"><img align="center"
                 src=https://i.ibb.co/F7hfbj2/Screen-Shot-2020-12-12-at-2-57-56-PM.png alt="learnconnect"
-                width="400" /></a></span></p>
+                width="350" /></a></span></p>
