@@ -10,7 +10,7 @@
 <p align=center>Currently contributing to the fullstack development of a community-driven platform that supports
     women who are navigating a career in tech, utilizing the MERN stack. Continuously participating in code reviews,
     pair-programming, deployment, TDD, and accessibility testing of features.</p>
-<p align=center><em>Actively learning new tools, concepts and patterns.</em></p>
+<p align=center>Actively learning new tools, concepts and patterns.</p>
 <br>
 <h2 align=center>Languages & Tools</h2>
 <br>
