@@ -1,7 +1,7 @@
 ![GitHub Logo](https://i.ibb.co/BZgXG5h/donatlogo.png)
 <h1 align=center>Hi, I'm Donat! <span><a href=https://www.linkedin.com/in/donat-pllana-a1b541145 target="blank"><img
                 align="center" src=https://devicon.dev/devicon.git/icons/linkedin/linkedin-original.svg
-                alt="jacksonchen171" height="30" width="30" /></a>
+                alt="donatpllana" height="30" width="30" /></a>
         <a href=https://medium.com/@donatpllana target="blank"><img align="center"
                 src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg alt="@donatpllana" height="30"
                 width="30" /></a></span></h1>
